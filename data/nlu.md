@@ -1,56 +1,94 @@
 ## intent:greet
-- hey
-- hello
-- hi
-- good morning
-- good evening
-- hey there
+- Ei
+- Olá
+- Oi
+- bom Dia
+- boa noite
+- oi
+- ola
+- ok
 
 ## intent:goodbye
-- bye
-- goodbye
-- see you around
-- see you later
+- tchau
+- Tchau
+- até a próxima
+- até logo
 
 ## intent:affirm
-- yes
-- indeed
-- of course
-- that sounds good
-- correct
+- sim
+- de fato
+- claro
+- isso soa bem
+- correto
 
-## intent:deny
-- no
-- never
-- I don't think so
-- don't like that
-- no way
-- not really
+## intent:negar
+- não
+- Nunca
+- Acho que não
+- não gosto disso
+- de jeito nenhum
+- Na verdade não
 
 ## intent:mood_great
-- perfect
-- very good
-- great
-- amazing
-- wonderful
-- I am feeling very good
-- I am great
-- I'm good
-
-## intent:mood_unhappy
-- sad
-- very sad
-- unhappy
-- bad
-- very bad
-- awful
-- terrible
-- not very good
-- extremely sad
-- so sad
+- perfeito
+- muito bom
+- ótimo
+- surpreendente
+- Maravilhoso
+- Estou me sentindo muito bem
+- Estou estou ótimo
+- Eu estou bem
+- que bom!
 
 ## intent:bot_challenge
-- are you a bot?
-- are you a human?
-- am I talking to a bot?
-- am I talking to a human?
+- bem e vc
+- Você é um robô?
+- Você é um humano?
+- estou falando com um bot?
+- estou falando com um humano?
+- bem e vc?
+
+## intent:mood_unhappy
+- triste
+- muito triste
+- infeliz
+- ruim
+- muito mal
+- horrível
+- Terrível
+- não muito bom
+- extremamente triste
+- tão triste
+
+## intent:licenciar
+- Quanto fica para licenciar ?
+- QuQuanto fica para licenciar ?anto fica para licenciar ?
+
+## intent:transferir
+- Quanto fica para transferir?
+
+## intent:renovacao_cnh
+- Você trabalha com Renovação de CNH
+- Você trabalha com Renovação de  carteira de habilitação
+- Você trabalha com Renovação de CNH (carteira de habilitação )
+
+## intent:orçamento
+- Pode fazer um orçamento ?
+
+## intent:parcelar
+- Dá para parcelar ?
+- Até quantas vezes é possível parcelar ?
+- Até quantas vezes sem juros ?
+- ħAté quantas vezes sem juros ?
+- tem juros?
+- tem parcelamento?
+
+## intent:estado_documento
+- Ficou pronto meu documento ?
+- meu  dicumento?
+
+## intent:processo_pcd
+- Você trabalha com processo PCD?
+
+## intent:define_pcd
+- O que é PCD?

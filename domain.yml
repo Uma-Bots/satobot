@@ -17,6 +17,7 @@ intents:
 - estado_documento
 - processo_pcd
 - define_pcd
+- informar_placa
 responses:
   utter_greet:
   - text: Ei! Como você está?
@@ -50,6 +51,8 @@ responses:
       direito
   utter_utter_pcd2:
   - text: A isenção para adquirir veículos novos com o teto de até R$ 70,000
+  utter_obrigado:
+  - text: Muito Obrigado!
 actions:
 - utter_planos1
 - utter_cnh1
@@ -58,3 +61,10 @@ actions:
 - utter_pcd1
 - utter_define_pcd
 - utter_utter_pcd2
+- utter_greet
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_placa_renavam
+- utter_obrigado

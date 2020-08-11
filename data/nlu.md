@@ -74,6 +74,7 @@
 
 ## intent:orçamento
 - Pode fazer um orçamento ?
+- como fica?
 
 ## intent:parcelar
 - Dá para parcelar ?
@@ -89,6 +90,10 @@
 
 ## intent:processo_pcd
 - Você trabalha com processo PCD?
+- faz pcd ?
 
 ## intent:define_pcd
 - O que é PCD?
+
+## intent:informar_placa
+- kts5d75

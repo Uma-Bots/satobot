@@ -66,3 +66,37 @@
 
 * define_pcd
     - utter_define_pcd
+
+## New Story
+
+* greet
+    - utter_greet
+* bot_challenge
+    - utter_iamabot
+* transferir
+    - utter_placa_renavam
+* affirm
+* informar_placa
+    - utter_obrigado
+
+## New Story
+
+* transferir
+    - utter_placa_renavam
+* affirm
+
+## New Story
+
+* processo_pcd
+    - utter_pcd1
+
+## New Story
+
+* define_pcd
+    - utter_pcd1
+* licenciar
+    - utter_utter_pcd2
+* parcelar
+    - utter_planos1
+* orçamento
+    - utter_plano_sem_juro

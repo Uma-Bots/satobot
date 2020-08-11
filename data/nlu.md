@@ -39,6 +39,7 @@
 - Estou estou ótimo
 - Eu estou bem
 - que bom!
+- beleza
 
 ## intent:bot_challenge
 - bem e vc

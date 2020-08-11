@@ -47,6 +47,7 @@
 - estou falando com um bot?
 - estou falando com um humano?
 - bem e vc?
+- tudo e você ?
 
 ## intent:mood_unhappy
 - triste
@@ -66,6 +67,7 @@
 
 ## intent:transferir
 - Quanto fica para transferir?
+- quanto fica uma transferência ?
 
 ## intent:renovacao_cnh
 - Você trabalha com Renovação de CNH
@@ -75,6 +77,7 @@
 ## intent:orçamento
 - Pode fazer um orçamento ?
 - como fica?
+- faz zero km?
 
 ## intent:parcelar
 - Dá para parcelar ?
@@ -83,6 +86,8 @@
 - ħAté quantas vezes sem juros ?
 - tem juros?
 - tem parcelamento?
+- parcela?
+- quanto ?
 
 ## intent:estado_documento
 - Ficou pronto meu documento ?

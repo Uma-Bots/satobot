@@ -100,3 +100,24 @@
     - utter_planos1
 * orçamento
     - utter_plano_sem_juro
+
+## New Story
+
+* greet
+    - utter_greet
+* bot_challenge
+    - utter_iamabot
+* affirm
+    - utter_happy
+
+## New Story
+
+* mood_unhappy
+    - utter_iamabot
+
+## New Story
+
+* greet
+    - utter_greet
+* bot_challenge
+    - utter_iamabot

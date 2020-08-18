@@ -7,6 +7,8 @@
 - oi
 - ola
 - ok
+- hey
+- oe
 
 ## intent:goodbye
 - tchau
@@ -21,15 +23,8 @@
 - isso soa bem
 - correto
 
-## intent:negar
-- não
-- Nunca
-- Acho que não
-- não gosto disso
-- de jeito nenhum
-- Na verdade não
-
 ## intent:mood_great
+- legal
 - perfeito
 - muito bom
 - ótimo
@@ -40,8 +35,22 @@
 - Eu estou bem
 - que bom!
 - beleza
+- muito bem
+- hohohoho
+- hahahahah
+- bem demais
+- massa
+
+## intent:negar
+- não
+- Nunca
+- Acho que não
+- não gosto disso
+- de jeito nenhum
+- Na verdade não
 
 ## intent:bot_challenge
+- beleza?
 - bem e vc
 - Você é um robô?
 - Você é um humano?
@@ -49,6 +58,9 @@
 - estou falando com um humano?
 - bem e vc?
 - tudo e você ?
+- ben e vc
+- quem é vc?
+- e o keini?
 
 ## intent:mood_unhappy
 - triste
@@ -61,6 +73,8 @@
 - não muito bom
 - extremamente triste
 - tão triste
+- 😱
+- poi é
 
 ## intent:licenciar
 - Quanto fica para licenciar ?
